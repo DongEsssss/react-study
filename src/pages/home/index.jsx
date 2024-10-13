@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      react-study (redux)
+      react-study
       <div className="list">
         <a href="/usestate">usestate</a>
       </div>
