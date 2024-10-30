@@ -1,0 +1,28 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+section,
+.frame,
+.home {
+  max-width: 1550px;
+  width: 100%;
+  padding: 20px;
+  margin: auto;
+}
+
+.home {
+  height: calc(100vh - 220.91px);
+}
+
+header,
+footer {
+  background-color: #323232;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: bold;
+}

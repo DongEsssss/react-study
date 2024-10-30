@@ -1,10 +1,9 @@
 export default function Home() {
   return (
-    <main>
+    <main className="home">
       react-study
       <div className="list">
         <a href="/usestate">usestate</a>
-        S
       </div>
     </main>
   )
